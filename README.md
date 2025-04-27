@@ -11,4 +11,4 @@ A simple terminal calculator written in Go.
 1. Install Go: [https://golang.org](https://golang.org)
 2. Clone the repository:
    ```bash
-   git clone https://github.com/yourname/CLI-Calculator_GroupX.git
+   git clone https://github.com/sogg414/CLI_Calculator.git
