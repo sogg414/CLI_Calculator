@@ -12,3 +12,13 @@ A simple terminal calculator written in Go.
 2. Clone the repository:
    ```bash
    git clone https://github.com/sogg414/CLI_Calculator.git
+
+## Supported Operations  
+- `+`, `-`, `*`, `/`  
+- **Example**: `5 * 3` → `15.00`  
+
+## How to Run  
+```bash
+git clone https://github.com/sogg414/CLI_Calculator.git
+cd CLI_Calculator
+go run main.go
