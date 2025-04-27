@@ -1,14 +1,14 @@
 # CLI Calculator (Group X)
 
-Простой калькулятор для терминала на Go.
+A simple terminal calculator written in Go.
 
-## Функции
-- Сложение, вычитание, умножение, деление.
-- Возведение в степень и квадратный корень.
-- Обработка ошибок (деление на ноль, некорректный ввод).
+## Features
+- Basic operations: `+`, `-`, `*`, `/`.
+- Extensions: Exponentiation (`^`), square root (`sqrt`).
+- Error handling (division by zero, invalid input).
 
-## Запуск
-1. Установите Go: [https://golang.org](https://golang.org)
-2. Клонируйте репозиторий:
+## How to Run
+1. Install Go: [https://golang.org](https://golang.org)
+2. Clone the repository:
    ```bash
    git clone https://github.com/yourname/CLI-Calculator_GroupX.git
